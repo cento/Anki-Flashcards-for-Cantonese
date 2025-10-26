@@ -1,0 +1,65 @@
+0 | ling4
+1 | jat1
+2 | ji6
+3 | saam1
+4 | sei3
+5 | ng5
+6 | luk6
+7 | cat1
+8 | baat3
+9 | gau2
+10 | sap6
+11 | sap6 jat1
+12 | sap6 ji6
+20 | ji6 sap6
+21 | ji6 sap6 jat1
+30 | saam1 sap6
+36 | saam1 sap6 luk6
+48 | sei3 sap6 baat3
+59 | ng5 sap6 gau2
+64 | luk6 sap6 sei3
+78 | cat1 sap6 baat3
+85 | baat3 sap6 ng5
+99 | gau2 sap6 gau2
+100 | jat1 baak3
+105 | jat1 baak3 ling4 ng5
+234 | ji6 baak3 saam1 sap6 sei3
+476 | sei3 baak3 cat1 sap6 luk6
+999 | gau2 baak3 gau2 sap6 gau2
+1,000 | jat1 cin1
+2,015 | ji6 cin1 jat1 sap6 ng5
+3,580 | saam1 cin1 ng5 baak3 baat3 sap6
+9,999 | gau2 cin1 gau2 baak3 gau2 sap6 gau2
+10,000 | jat1 maan6
+12,345 | jat1 maan6 ji6 cin1 saam1 baak3 sei3 sap6 ng5
+23,678 | ji6 maan6 saam1 cin1 luk6 baak3 cat1 sap6 baat3
+40,001 | sei3 maan6 jat1
+55,555 | ng5 maan6 ng5 cin1 ng5 baak3 ng5 sap6 ng5
+67,890 | luk6 maan6 cat1 cin1 baat3 baak3 gau2 sap6
+84,210 | baat3 maan6 sei3 cin1 ji6 baak3 jat1 sap6
+95,432 | gau2 maan6 ng5 cin1 sei3 baak3 saam1 sap6 ji6
+10000 | jat1 maan6
+99999 | gau2 maan6 gau2 cin1 gau2 baak3 gau2 sap6 gau2
+What’s your phone number? | nei5 ge3 din6 waa2 hou6 maa5 hai6 mei1 je6?
+My phone number is 9123 4567. | ngo5 ge3 din6 waa2 hou6 maa5 hai6 gau2 jat1 ji6 saam1 sei3 ng5 luk6 cat1.
+Can I have your number? | ho2 m4 ho2 ji5 bei2 nei5 ge3 din6 waa2 hou6 maa5 ngo5 aa3?
+Please call me at 5566 7788. | cing2 daa1 bei2 ngo5 jat1 haa6  ng5 ng5 luk6 luk6 cat1 cat1 baat3 baat3.
+What’s his number? | keoi5 ge3 din6 waa2 hou6 maa5 hai6 mei1 je6?
+Her number is 3456 7890. | keoi5 ge3 din6 waa2 hou6 maa5 hai6 saam1 sei3 ng5 luk6 cat1 baat3 gau2 ling4.
+How old are you? | nei5 gei2 do1 seoi3 aa3?
+I am 25 years old. | ngo5 ji6 sap6 ng5 seoi3.
+He is 19. | keoi5 sap6 gau2 seoi3.
+She is 30. | keoi5 saam1 sap6 seoi3.
+I’m 42 years old. | ngo5 sei3 sap6 ji6 seoi3.
+My brother is 17. | ngo5 go3 go1 sap6 cat1 seoi3.
+My sister is 13. | ngo5 go3 mui6 mui6 sap6 saam1 seoi3.
+My mom is 58 years old. | ngo5 maa1 maa1 ng5 sap6 baat3 seoi3.
+My dad is 63 years old. | ngo5 baa4 baa1 luk6 sap6 saam1 seoi3.
+My son is 9 years old. | ngo5 ge3 zai2 gau2 seoi3.
+My daughter is 5. | ngo5 ge3 neoi5 ng5 seoi3.
+I was born in 1995. | ngo5 hai6 jat1 gau2 gau2 ng5 nin4 ceot1 saang1.
+He was born in 2000. | keoi5 hai6 ji6 ling4 ling4 ling4 nin4 ceot1 saang1.
+We are the same age. | ngo5 dei6 tung4 nei5 jat1 go3 nin4 gai3.
+How old is your father? | nei5 baa4 baa1 gei2 do1 seoi3 aa3?
+He is 60 years old. | keoi5 luk6 sap6 seoi3.
+I was born in 1988. | ngo5 hai6 jat1 gau2 baat3 baat3 nin4 ceot1 saang1.
